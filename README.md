@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Expanding my skill set in Dart/Flutter and contributing to projects.<br><br>👯 I’m looking to collaborate on<br>Innovative and impactful mobile applications, especially those leveraging Flutter.<br><br> 🤝 I’m looking for help with<br>Networking with other developers and learning best practices for mobile app development.<br><br>🌱 I’m currently learning<br>Advanced Flutter techniques and exploring backend development with Firebase.<br><br>💬 Happy for advice<br>Always looking forward to advice from other developers so I can improve my skills even more.<br><br>⚡ Fun fact<br>Besides coding, I enjoy playing Spider-Man: Miles Morales and I'm a running fan.<br><br>
+🔭 I’m currently working on<br>Expanding my skill set in Dart/Flutter and contributing to projects.<br><br>👯 I’m looking to collaborate on<br>Innovative and impactful mobile applications, especially those leveraging Flutter.<br><br> 🤝 I’m looking for help with<br>Networking with other developers and learning best practices for mobile app development.<br><br>🌱 I’m currently learning<br>Advanced Flutter techniques and exploring backend development with Firebase.<br><br>⚡ Fun fact<br>Besides coding, I enjoy playing Spider-Man: Miles Morales and I'm a running fan.<br><br>💬 Reach out to me!<br> I am an enthusiastic learner with a keen interest in the latest technological advancements. I thrive on tackling new challenges and continuously seek opportunities to enhance my skills as a developer. If you need a proficient Flutter mobile engineer, I would be delighted to discuss how I can add value to your project. Feel free to reach out to me via Telegram or LinkedIn
+
+
 
 
 ## 🌐 Socials:
